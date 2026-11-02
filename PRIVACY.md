@@ -1,6 +1,6 @@
 # Privacy Policy for dy2
 
-Effective date: September 28, 2026
+Effective date: November 2, 2026
 
 This Privacy Policy explains how the dy2 Discord bot ("dy2", "the bot", "we", or
 "us") processes information when it is installed in or used within a Discord
@@ -87,7 +87,7 @@ delete their own retained deleted-message records. This command does not delete
 messages already sent to Discord or server-wide configuration.
 
 For deletion of other bot-held data, a server owner or affected user may contact
-us at **vnggodcreative@gmail.com**. Please include the relevant Discord user ID
+us at **sonduy135@gmail.com**. Please include the relevant Discord user ID
 and/or server ID. We may request reasonable verification before completing a
 request.
 
@@ -107,4 +107,4 @@ The effective date at the top will be updated when material changes are made.
 
 ## Contact
 
-Privacy questions and requests can be sent to **vnggodcreative@gmail.com**.
+Privacy questions and requests can be sent to **sonduy135@gmail.com**.

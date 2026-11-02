@@ -1,6 +1,6 @@
 # Terms of Service for dy2
 
-Effective date: September 28, 2026
+Effective date: November 2, 2026
 
 By installing or using dy2, you agree to these Terms of Service and the bot's
 [Privacy Policy](PRIVACY.md).
@@ -43,4 +43,4 @@ legal requirements.
 
 ## Contact
 
-Questions about these terms can be sent to **vnggodcreative@gmail.com**.
+Questions about these terms can be sent to **sonduy135@gmail.com**.
